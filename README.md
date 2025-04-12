@@ -1,29 +1,59 @@
-Este projeto é uma aplicação web desenvolvida com Node.js, Express e MongoDB para criar e gerenciar uma lista de contatos. Utiliza-se o template engine EJS para renderização das páginas HTML e o Webpack para empacotamento dos recursos front-end. A aplicação permite a criação de contas de usuários, adição de contatos associados a essas contas e remoção automática dos contatos quando excluídos pelo usuário, garantindo consistência com o banco de dados MongoDB.
+# 📒 Projeto: Lista de Contatos  
 
-OQUE FOI USADO
+## 📽️ Demonstração  
 
-JAVASCRIPT <br>
-EJS  <br>
-NODE  <br>
-WEBPACK <br>
-EXPRESS <br>
-MONGODB <br>
-NPM
+https://github.com/user-attachments/assets/5a7c6795-239f-48b1-80a5-a5e867e68cf4
 
 
+---
 
 
-Para rodar a aplicação localmente, é necessário seguir os seguintes passos:<br>
+<br>  
 
-Certifique-se de ter o Node.js e o MongoDB instalados em sua máquina.<br>
-Clone o repositório do projeto.<br>
-Navegue até o diretório do projeto e execute o comando npm install para instalar as dependências.<br>
-Configure as variáveis de ambiente necessárias, como as credenciais do MongoDB, em um arquivo .env.<br>
-Execute o comando npm start para iniciar o servidor Node.js.<br>
-Acesse a aplicação em seu navegador web visitando o endereço fornecido pelo servidor.<br>
+## 💻 Sobre o Projeto  
 
+Este projeto é uma aplicação web completa para gerenciamento de contatos, desenvolvida com Node.js, Express e MongoDB. A interface é renderizada utilizando o template engine EJS, proporcionando páginas dinâmicas e organizadas. A aplicação permite que usuários criem suas contas, adicionem e excluam contatos vinculados ao seu perfil, com exclusão automática dos dados relacionados para manter a integridade do banco. O Webpack é utilizado para empacotamento e otimização dos recursos front-end.
+
+---  
 
 
-https://github.com/diegoramosds/projeto-agenda/assets/140274064/924b0a5b-1af0-47da-b427-8c499b6f7d5f
+<br>  
 
+## 🚀 Tecnologias Utilizadas  
 
+-✔️ JavaScript – Linguagem principal da aplicação
+-✔️ Node.js – Ambiente de execução no backend
+-✔️ Express – Framework para construção da API
+-✔️ EJS – Template engine para renderização de páginas HTML
+-✔️ MongoDB – Banco de dados NoSQL para armazenar usuários e contatos
+-✔️ Webpack – Empacotador de módulos front-end
+-✔️ NPM – Gerenciador de dependências
+
+---  
+
+<br>  
+
+## ✨ Destaques  
+
+### **👤 Cadastro e Login de Usuários**  
+Permite que cada usuário tenha sua própria conta, com acesso individual aos seus contatos.  
+
+### **📇 Gerenciamento de Contatos**  
+Adicione e exclua contatos de forma prática, com dados vinculados ao usuário logado.  
+
+### **🗃️ Integração com MongoDB**  
+Todos os dados são armazenados e gerenciados em tempo real através do MongoDB.  
+
+### **🧹 Exclusão Automática de Dados**  
+Ao excluir um usuário, seus contatos são automaticamente removidos do banco de dados.  
+
+### **📄 Renderização com EJS**  
+As páginas HTML são geradas dinamicamente com a engine EJS, garantindo uma interface mais fluida.  
+
+### **⚙️ Empacotamento com Webpack**  
+O projeto conta com Webpack configurado para otimizar e empacotar os arquivos do front-end.
+ 
+
+---  
+
+<br>  

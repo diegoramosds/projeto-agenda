@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/5a7c6795-239f-48b1-80a5-a5e867e68cf4
 
 ## 💻 Sobre o Projeto  
 
-Este projeto é uma aplicação web completa para gerenciamento de contatos, desenvolvida com Node.js, Express e MongoDB. A interface é renderizada utilizando o template engine EJS, proporcionando páginas dinâmicas e organizadas. A aplicação permite que usuários criem suas contas, adicionem e excluam contatos vinculados ao seu perfil, com exclusão automática dos dados relacionados para manter a integridade do banco. O Webpack é utilizado para empacotamento e otimização dos recursos front-end.
+A aplicação permite que usuários criem suas contas, adicionem e excluam contatos vinculados ao seu perfil, com exclusão automática dos dados relacionados para manter a integridade do banco. O Webpack é utilizado para empacotamento e otimização dos recursos front-end.
 
 ---  
 

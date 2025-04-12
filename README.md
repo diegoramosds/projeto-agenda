@@ -21,13 +21,14 @@ Este projeto é uma aplicação web completa para gerenciamento de contatos, des
 
 ## 🚀 Tecnologias Utilizadas  
 
--✔️ JavaScript – Linguagem principal da aplicação
--✔️ Node.js – Ambiente de execução no backend
--✔️ Express – Framework para construção da API
--✔️ EJS – Template engine para renderização de páginas HTML
--✔️ MongoDB – Banco de dados NoSQL para armazenar usuários e contatos
--✔️ Webpack – Empacotador de módulos front-end
--✔️ NPM – Gerenciador de dependências
+- ✔️ **JavaScript** – Linguagem principal da aplicação  
+- ✔️ **EJS** – Template engine para renderização dinâmica de páginas HTML  
+- ✔️ **Node.js** – Ambiente de execução do backend  
+- ✔️ **Express** – Framework para construção da API e rotas do servidor  
+- ✔️ **MongoDB** – Banco de dados NoSQL para armazenar os dados dos usuários e contatos  
+- ✔️ **Webpack** – Empacotamento e otimização dos arquivos front-end  
+- ✔️ **NPM** – Gerenciador de pacotes para instalar dependências do projeto  
+
 
 ---  
 
@@ -53,7 +54,50 @@ As páginas HTML são geradas dinamicamente com a engine EJS, garantindo uma int
 ### **⚙️ Empacotamento com Webpack**  
 O projeto conta com Webpack configurado para otimizar e empacotar os arquivos do front-end.
  
+---  
+
+<br>  
+
+
+## 🚀 Como Rodar o Projeto
+
+### 🔧 **Pré-requisitos**  
+
+Antes de começar, certifique-se de ter instalado:  
+
+✅ **Node.js** (versão 18 ou superior) → [Baixar aqui](https://nodejs.org/)  
+
+✅ **Gerenciador de pacotes** (npm ou yarn)  
+
+✅ **Git** (para clonar o repositório)  
 
 ---  
 
 <br>  
+
+## ▶️ Passo a Passo  
+
+
+1️⃣ **Clone o repositório**:  
+```bash
+git clone https://github.com/diegoramosds/projeto-alunos .git
+```
+
+2️⃣ Acesse o diretório da aplicação React no terminal.
+```bash
+cd projeto-agenda
+```
+
+3️⃣ Execute  para instalar as dependências do projeto.
+```bash
+npm install
+```
+
+4️⃣ Execute  para iniciar o servidor de desenvolvimento:
+```bash
+npm start
+```
+5️⃣ Aguarde até que a aplicação seja compilada e inicie no navegador.
+
+6️⃣ Acesse a aplicação pelo navegador no endereço fornecido pelo terminal.
+

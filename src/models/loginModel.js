@@ -14,7 +14,7 @@ class Login  {
 constructor(body){
     this.body = body;
     this.errors = [];
-    this.user =null;
+    this.user = null;
     
 }
 async login(){
